@@ -4,7 +4,7 @@
 An end-to-end data analysis was conducted on an e-commerce dataset to identify purchasing patterns, segment customers, and forecast future revenue. The project aimed to connect socio-economic customer profiles with their transaction history.
 
 ##  Dataset
-* **Transactions:** 10,000 records containing order dates, revenue, profit, and discounts.
+* **Transactions:** ~10,000 records containing order dates, revenue, profit, and discounts.
 * **Customers:** ~1,500 records including age, income, and job-related satisfaction indicators.
 
 ##  Tech Stack
